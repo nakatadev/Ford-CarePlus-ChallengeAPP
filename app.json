@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Ford Care+",
+    "slug": "fiap-mdi-sprint-ford-care-plus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "fordcareplus",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#F7F8FA"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
