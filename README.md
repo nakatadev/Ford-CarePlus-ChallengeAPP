@@ -105,12 +105,6 @@ Prints do aplicativo:
 
 ![Tela de beneficios do Ford Care+](public/last-app-ford.jfif)
 
-Adicionar antes da entrega:
-
-- GIF ou video curto demonstrando o fluxo principal.
-
-Essas pendencias tambem estao listadas em `TODO_LOCAL.md`, que nao deve ser enviado ao GitHub.
-
 ## Proximos passos
 
 - Integrar login do cliente.
