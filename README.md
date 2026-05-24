@@ -22,12 +22,11 @@ A proposta do Ford Care+ e aproximar o cliente da rede oficial de pos-venda. O a
 
 ## Integrantes
 
-Preencher antes da entrega:
 
+- Rodrigo Nakata - 556417
 - Nome completo - RM000000
 - Nome completo - RM000000
-- Nome completo - RM000000
-- Nome completo - RM000000
+
 
 ## Stack
 
