@@ -25,7 +25,7 @@ A proposta do Ford Care+ e aproximar o cliente da rede oficial de pos-venda. O a
 
 - Rodrigo Nakata - 556417
 - Gabriel Henrique Padula - 554907
-- Nome completo - RM000000
+- Arthur Abonizio - 555506
 
 
 ## Stack
