@@ -1,0 +1,16 @@
+{
+  "name": "ford-conecta-iot-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulador de telemetria veicular (MQTT) para o app Ford Conecta",
+  "main": "publisher.js",
+  "scripts": {
+    "start": "node publisher.js",
+    "broker": "node local-broker.js"
+  },
+  "dependencies": {
+    "aedes": "^0.51.3",
+    "mqtt": "^5.10.4",
+    "websocket-stream": "^5.5.2"
+  }
+}
